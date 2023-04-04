@@ -10,6 +10,7 @@
    * cycle of never finishing
 * Make a game in an hour, a day, a week, a month [0h gamejam](https://itch.io/jam/0h-game-jam-2022)
 * Constraining is hard (scopecreep), just one more feature
+    * especially in the beginning it's hard to estimate how long something might take to polish and ship 
 * Gamejams (itch.io) for connecting with people and pressure to actually finish
 * Don't spend time making decisions about your tools as a beginner, skills will translate and you don't really know what you will eventually need from your tools
 * **You learn making games by making games and nothing else**
