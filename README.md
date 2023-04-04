@@ -24,7 +24,7 @@
 * Consistency is key 
     *  Common mistake: doing pixel art and then having different sized pixels on the screen
     * "Ugly" but incredibly consistent in style: [Cruelty squad](https://www.youtube.com/watch?v=CHm2d3wf8EU)
-* Make up imits to limit and shield you from more difficult concepts and possibilities to mess up
+* Make up limits to limit and shield you from more difficult concepts and possibilities to mess up
     * Color Palettes: pallette pickers, e.g. [color-hex](https://www.color-hex.com/color-palettes/)
        * save you from messing up colors. DONT MAKE EXCEPTIONS FOR "JUST THAT ONE MORE COLOR FOR THAT ONE THING"
     * High contrast/ outlines for consistent style: [example, celeste](https://games-b26f.kxcdn.com/wp-content/uploads/2019/06/celeste-770x470.png)
