@@ -6,11 +6,12 @@
 ## Getting started
 ### Philosophy
 * Being bad means improving fast
-* Don't make long games
+   * Don't make long games, the gain in knowledge will make it worth it to start over in a week
+   * cycle of never finishing
 * Make a game in an hour, a day, a week, a month [0h gamejam](https://itch.io/jam/0h-game-jam-2022)
-* Constraining is hard
-* Gamejams (itch.io)
-* Don't spend time making decisions about your tools as a beginner, skills will translate
+* Constraining is hard (scopecreep), just one more feature
+* Gamejams (itch.io) for connecting with people and pressure to actually finish
+* Don't spend time making decisions about your tools as a beginner, skills will translate and you don't really know what you will eventually need from your tools
 * **You learn making games by making games and nothing else**
 
 ## Art
@@ -19,19 +20,23 @@
     * light
     * material
     * empty space/ detailing
+    * => workarounds might be necessary
 * Consistency is key 
-    * [Cruelty squad](https://www.youtube.com/watch?v=CHm2d3wf8EU)
-* Make up imits to limit and shield you
-    *Color Palettes: pallette pickers, e.g. [color-hex](https://www.color-hex.com/color-palettes/)
-    * High contrast/ outlines: [example, celeste](https://games-b26f.kxcdn.com/wp-content/uploads/2019/06/celeste-770x470.png)
+    *  Common mistake: doing pixel art and then having different sized pixels on the screen
+    * "Ugly" but incredibly consistent in style: [Cruelty squad](https://www.youtube.com/watch?v=CHm2d3wf8EU)
+* Make up imits to limit and shield you from more difficult concepts and possibilities to mess up
+    * Color Palettes: pallette pickers, e.g. [color-hex](https://www.color-hex.com/color-palettes/)
+       * save you from messing up colors. DONT MAKE EXCEPTIONS FOR "JUST THAT ONE MORE COLOR FOR THAT ONE THING"
+    * High contrast/ outlines for consistent style: [example, celeste](https://games-b26f.kxcdn.com/wp-content/uploads/2019/06/celeste-770x470.png)
     * Shapes: [Patapon](https://www.youtube.com/watch?v=D3Hz4hIjeDs)
-    * [Subnautica](https://store.steampowered.com/app/264710/Subnautica/) vs. [In Other Waters](https://store.steampowered.com/app/890720/In_Other_Waters/)
+    * Great simplification and abstraction of a similar game and theme: 
+      * [Subnautica](https://store.steampowered.com/app/264710/Subnautica/) vs. [In Other Waters](https://store.steampowered.com/app/890720/In_Other_Waters/)
     * Go ultra minimal/Embrace the medium: [Anuto TD](https://www.youtube.com/watch?v=gJ10UZJy-IA), [FAITH](https://www.youtube.com/watch?v=io2cGEiUGWg)
 * Juice
-    * Short game that "feels" great > super big game that feels meh
+    * Short game that "feels" great >>> super big game that feels meh
     * [12 Principles of animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
     * Juice [more](https://www.youtube.com/watch?v=xSYVQc7cH-4)
-* Check out asset packs
+* Check out asset packs for premade art
     * [KennyNL](https://www.kenney.nl/assets)
 * Shaders
 
@@ -46,15 +51,15 @@ No exhaustive list
 * Voxel
 * Claymation
 * Watercolor, Chalk, text base....
-    * Clean up in Gimp/Photoshop
+    * Clean up in Gimp/Photoshop and import
 * AI tools
 
 ## Programming
-* Avoid visual scripting, steal literally all your code if necessary
+* Avoid visual scripting, steal literally all your code if necessary (as a CS student)
 * There is a tutorial for literally everything (depending on your language of choice)
 
 ### Engines
-Please don't spend more than 10 minutes choosing one
+Please don't spend more than 10 minutes choosing one. You don't know what features you will need yet, most skills will transfer anyway.
 * [Pico 8](https://www.lexaloffle.com/pico-8.php)
     * 15$
     * Fantasy console
@@ -67,6 +72,7 @@ Please don't spend more than 10 minutes choosing one
     * Lack of very advanced tutorials
     * Great native 2D
     * Console ports expensive
+       * That's the kind of thing you shouldn't think about if you are in a position to be reading this.
 * [Unity](https://unity.com/)
     * Commercial/subscription based with a free tier and closed Source
     * Giant amount of tutorials /shaders /assets...
@@ -74,10 +80,11 @@ Please don't spend more than 10 minutes choosing one
 * [Unreal](https://www.unrealengine.com)
     * Most powerful 3D engine
     * Not too beginner friendly
+    * Go to for realistic graphics and rendering
 * [Construct](https://www.construct.net/en)
     * Closed Source, subscription with a free tier
     * Web based
-    * Features for quick production
+    * Features for quick production [send people a link for quick testin, premade snippets]
 * [Game Maker](https://gamemaker.io/en)
     * Closed Source, commercial with a free tier
     * very acessible
@@ -107,6 +114,7 @@ Please don't spend more than 10 minutes choosing one
 * When looking for any assets, search in the gamedev subreddit: [/r/gamedev](http://reddit.com/r/gamedev)
  
 ### Tutorials 
+Be aware of tutorial hell. Tutorials are great for getting an overview of your tools and workflows. They will not enable you to reproduce things and make you dependent on them in order to reliably produce results. Follow a two hour one for a whole game, then do your own game with INDIVIDUAL tutorials for different things [player controller, bullets, score...]. That way, you will understand how systems interact and will have to change them to match, rather than things working together without understanding why things are set up a certain way. 
 * Godot 
     * [Short, basic tutorial: Your first 2D game](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html)
     * [Pixel Platformer Tutorial / Code Along (Character Basics) - Godot Engine](https://www.youtube.com/watch?v=f3WGFwCduY0)
